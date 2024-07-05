@@ -26,3 +26,14 @@ Here are some ideas to get you started:
 </p>
 <a href="https://twitter.com/innani8" alt="Citation"><img src="https://img.shields.io/twitter/follow/shubhaminnani?style=social" /></a>
 -->
+
+## Current Role 
+
+Research Analyst at [Indiana University's Division of Computational Pathology](https://medicine.iu.edu/pathology/research/computational-pathology), working on histopathology AI for prognosis and diagnosis applications.
+
+
+## Interests
+
+- Exploring the deep learning algorithm for computer vision application🔭
+- Improving healthcare with Explainable/Interpretable AI.
+- Working on clinical application for improved patient care.
