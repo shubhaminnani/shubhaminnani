@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/innani8" alt="Citation"><img src="https://img.shields.io/twitter/follow/sarthakpati?style=social" /></a>
 <!--
 </p>
-<a href="https://twitter.com/innani8" alt="Citation"><img src="https://img.shields.io/twitter/follow/sarthakpati?style=social" /></a>
+<a href="https://twitter.com/innani8" alt="Citation"><img src="https://img.shields.io/twitter/follow/shubhaminnani?style=social" /></a>
 -->
