@@ -37,3 +37,4 @@ Research Analyst at [Indiana University's Division of Computational Pathology](h
 - Exploring the deep learning algorithm for computer vision application🔭
 - Improving healthcare with Explainable/Interpretable AI.
 - Working on clinical application for improved patient care.
+- Exploring Foundational and Language Models for Computational Pathology.
