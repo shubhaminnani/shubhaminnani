@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ## Current Role 
 
-Research Analyst at [Indiana University's Division of Computational Pathology](https://medicine.iu.edu/pathology/research/computational-pathology), working on histopathology AI for prognosis and diagnosis applications.
+Research Data Analyst at [Indiana University's Division of Computational Pathology](https://medicine.iu.edu/pathology/research/computational-pathology), working on histopathology AI for prognosis and diagnosis applications.
 
 
 ## Interests
